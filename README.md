@@ -1,16 +1,25 @@
 # clubfolio
 
-A new Flutter project.
+This is an assignment project which uses Flutter and Dart for designing and animation of the pages.
 
-## Getting Started
+## Discover Page Preview
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/80326453/211199395-cabeaeaf-ac9d-4326-814e-ad41e11ec451.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Women Page Preview
+![image](https://user-images.githubusercontent.com/80326453/211199458-a3fdc9a8-ebd9-4a28-a785-b9c133efd959.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Preview
+
+https://drive.google.com/file/d/1JqvAmBBHloa8pizT0cuDqLeROi2Gwoxk/view
+
+
+## Running client side 
+
+  ```
+  flutter pub get
+  open -a simulator (to get iOS Simulator)
+  flutter run
+  
+  ```
